@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learning_to_deploy/static/css/main.d5ef2f61.css",
+    "main.js": "/learning_to_deploy/static/js/main.631940bc.js",
+    "static/js/453.4db426b7.chunk.js": "/learning_to_deploy/static/js/453.4db426b7.chunk.js",
+    "index.html": "/learning_to_deploy/index.html",
+    "main.d5ef2f61.css.map": "/learning_to_deploy/static/css/main.d5ef2f61.css.map",
+    "main.631940bc.js.map": "/learning_to_deploy/static/js/main.631940bc.js.map",
+    "453.4db426b7.chunk.js.map": "/learning_to_deploy/static/js/453.4db426b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ef2f61.css",
+    "static/js/main.631940bc.js"
+  ]
+}
